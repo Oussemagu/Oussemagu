@@ -1,6 +1,6 @@
 # Hi there, I'm Oussema Guerriche 👋
 
-I'm a passionate **Software Engineering student** from Tunisia, currently studying at **ISTIC Borj Cedria**.  
+I'm a passionate **Software Engineering student** from Tunisia, currently studying at **FST (Faculty of Sciences Tunis)** 
 I build intelligent applications, automate workflows, and solve real-world problems using technology.
 
 🔭 **What I'm working on:**
